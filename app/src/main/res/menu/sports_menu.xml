@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/S0"
+        android:title="@string/generic"/>
+
+    <item android:id="@+id/S1"
+        android:title="@string/football"/>
+
+    <item android:id="@+id/S2"
+        android:title="@string/basketball" />
+
+    <item android:id="@+id/S3"
+        android:title="@string/handball" />
+
+    <item android:id="@+id/S4"
+        android:title="@string/tennis" />
+
+    <item android:id="@+id/S5"
+        android:title="@string/badminton"/>
+
+    <item android:id="@+id/S6"
+        android:title="@string/table_tennis" />
+
+    <item android:id="@+id/S7"
+        android:title="@string/boxing" />
+
+    <item android:id="@+id/S8"
+        android:title="@string/bowls" />
+
+    <item android:id="@+id/S9"
+        android:title="@string/beach_handball"/>
+
+</menu>
